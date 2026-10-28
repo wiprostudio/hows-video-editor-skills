@@ -15,6 +15,10 @@ Use original editorial mixed-media collage: navy, off-white, restrained coral ac
 
 Shorts default to 9:16, 35–60 seconds; long episodes to 16:9, 8–12 minutes. These are adjustable planning ranges, not measured retention optima. Preserve the requested runtime and format.
 
+## Production playbook
+
+For a new episode, read [references/production-workflow.md](references/production-workflow.md). Use [STYLE.md](STYLE.md) for provisional HOW's visual defaults and copy [templates/TREATMENT.md](templates/TREATMENT.md) into the episode folder for timed planning. These resources adapt the owner-supplied tutorial; they do not override the current request.
+
 ## Select the production route
 
 Inspect the current project and available tools first.
